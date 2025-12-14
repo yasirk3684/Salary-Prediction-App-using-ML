@@ -3,3 +3,5 @@ Salary prediction is an important task for organizations to ensure fair and data
 
 <img width="1896" height="867" alt="image" src="https://github.com/user-attachments/assets/36e9341a-c555-4c80-993f-f1223f654d63" />
 
+<img width="1886" height="831" alt="image" src="https://github.com/user-attachments/assets/d33a773e-ccb1-46ad-a782-f0105a0cffc8" />
+
